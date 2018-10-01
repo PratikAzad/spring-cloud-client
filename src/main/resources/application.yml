@@ -7,6 +7,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/shashank915/kt-session-microservices-configuration
-          search-paths: client-1
-
+          uri: https://github.com/PratikAzad/kt-session-microservices-configuration
+          search-paths: client-1,client-2
